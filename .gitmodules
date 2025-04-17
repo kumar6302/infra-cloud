@@ -1,0 +1,3 @@
+[submodule "anju-infracloud"]
+	path = anju-infracloud
+	url = https://github.com/kumar6302/anju-infracloud.git
